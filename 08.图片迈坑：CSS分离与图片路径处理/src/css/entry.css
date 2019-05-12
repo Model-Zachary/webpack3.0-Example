@@ -1,0 +1,7 @@
+body{
+  background:pink;
+}
+.img{
+   background:url('../images/women.png')no-repeat center center;
+   width: 372px;height: 423px;
+}

@@ -1,0 +1,1 @@
+document.getElementById('title').innerHTML='通过webpack.config.js配置出口入口打包(多入口打包)'
