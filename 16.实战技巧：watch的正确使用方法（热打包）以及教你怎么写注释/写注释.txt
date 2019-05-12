@@ -1,0 +1,2 @@
+    // 打包代码写入注释
+    new webpack.BannerPlugin('小智打包注释')

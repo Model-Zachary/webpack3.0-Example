@@ -1,0 +1,2 @@
+需要安装的插件资源
+cnpm install --save-dev copy-webpack-plugin  

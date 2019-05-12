@@ -1,0 +1,6 @@
+npm start 或者 npm run server开发环境 
+
+打实体文件夹包
+npm run build 生产环境
+
+npm run dev 开发环境

@@ -1,0 +1,13 @@
+安装全部项目依赖包：npm install
+
+安装生产环境依赖包：npm install --production
+
+
+npm install jquery 全局安装 pagaage.json文件里面不会被记录
+
+npm install jquery --save 生产环境依赖 它存在于package.json的dependencies中
+也就是说它是生产环境需要依赖的包（上线时需要的以来包）
+
+npm install jquery --save-dev 开发环境依赖包 它存在于package.json的devDependencies中
+也就是说它是开发环境中需要的，上线并不需要这个包的依赖
+

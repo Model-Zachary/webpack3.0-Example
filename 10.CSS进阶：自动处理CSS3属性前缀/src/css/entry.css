@@ -1,0 +1,9 @@
+body{
+  background:pink;
+}
+.img{
+   background:url('../images/women.png')no-repeat center center;
+   width: 372px;height: 423px;
+   transform: rotate(45deg);
+   box-shadow: 1px 2px 3px #f40;
+}

@@ -1,0 +1,7 @@
+body{
+  background:hsl(345, 100%, 88%);
+}
+.img{
+   background:url('../images/women.png')no-repeat center center;
+   width: 372px;height: 423px;
+}
