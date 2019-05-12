@@ -1,1 +1,0 @@
-webpack src/entry.js dist/bundle.js
