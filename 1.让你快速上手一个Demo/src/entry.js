@@ -1,1 +1,0 @@
-document.getElementById('title').innerHTML='一个简单demo，让你初始webpack'
